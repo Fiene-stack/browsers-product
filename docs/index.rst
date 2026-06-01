@@ -1,5 +1,10 @@
 Current Member Reinstall Point? — How you Get Started with New AOL Desktop Gold Product in Your Device
 ====================================================================================================
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://myaolgold.github.io" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with AOL Gold</a>
+   </div>
 
 AOL Desktop Gold is an all-in-one desktop software that combines browsing, email, and security features into a single platform. It is designed to provide a smooth and secure digital experience for users.
 
